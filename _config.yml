@@ -1,0 +1,7 @@
+# Site settings
+title: Antalya Sinema Rehberi
+description: Antalya Bagimsiz & Sanatsal Sinema Rehberi
+keywords: Antalya, Bagimsiz, Sanatsal, Sinema
+author: nuridesengin
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
