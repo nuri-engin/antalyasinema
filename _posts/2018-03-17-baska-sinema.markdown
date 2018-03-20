@@ -1,10 +1,10 @@
 ---
-title:  "Koyusiyah Kahve/Bar"
-subtitle: "Mekan > Kaleici"
+title:  "Baska Sinema"
+subtitle: "Olusum > Farkli Sinema Salonlari"
 author: "Nuri"
 avatar: "img/authors/sloth.png"
-image: "img/koyusiyah.jpg"
-date:   2018-03-19 12:12:12
+image: "img/baskasinema.jpg"
+date:   2018-03-17 12:12:12
 ---
 
 ### Mekan Bilgisi

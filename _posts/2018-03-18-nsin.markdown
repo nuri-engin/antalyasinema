@@ -1,10 +1,10 @@
 ---
-title:  "Koyusiyah Kahve/Bar"
+title:  "N'Sin Kafe/Bar"
 subtitle: "Mekan > Kaleici"
 author: "Nuri"
 avatar: "img/authors/sloth.png"
-image: "img/koyusiyah.jpg"
-date:   2018-03-19 12:12:12
+image: "img/nsin.jpg"
+date:   2018-03-18 12:12:12
 ---
 
 ### Mekan Bilgisi

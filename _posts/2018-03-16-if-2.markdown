@@ -1,10 +1,10 @@
 ---
-title:  "Koyusiyah Kahve/Bar"
-subtitle: "Mekan > Kaleici"
+title:  "If 2"
+subtitle: "Festival"
 author: "Nuri"
 avatar: "img/authors/sloth.png"
-image: "img/koyusiyah.jpg"
-date:   2018-03-19 12:12:12
+image: "img/if2.jpg"
+date:   2018-03-16 12:12:12
 ---
 
 ### Mekan Bilgisi
