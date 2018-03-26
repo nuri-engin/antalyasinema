@@ -1,5 +1,5 @@
 ---
-title:  "Antalya Kultur Sanat"
+title:  "Antalya Film Festivali"
 subtitle: "Festival"
 author: "Nuri"
 avatar: "img/authors/sloth.png"

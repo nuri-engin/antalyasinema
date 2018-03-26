@@ -1,5 +1,5 @@
 ---
-title:  "Antalya Kultur Sanat"
+title:  "CVG Arthouse"
 subtitle: "Olusum > Cinemaximum salonlari"
 author: "Nuri"
 avatar: "img/authors/sloth.png"

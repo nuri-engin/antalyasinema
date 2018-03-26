@@ -1,5 +1,5 @@
 ---
-title:  "N'Sin Kafe/Bar"
+title:  Yalin Sanat"
 subtitle: "Mekan > Bahcelievler"
 author: "Nuri"
 avatar: "img/authors/sloth.png"

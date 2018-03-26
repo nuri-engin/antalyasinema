@@ -1,6 +1,6 @@
 ---
-title:  "N'Sin Kafe/Bar"
-subtitle: "Mekan > Bahcelievler"
+title:  "Octopus Kitap/Kafe"
+subtitle: "Mekan > Isiklar"
 author: "Nuri"
 avatar: "img/authors/sloth.png"
 image: "img/octupus.jpg"
