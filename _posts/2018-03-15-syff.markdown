@@ -1,0 +1,11 @@
+---
+title:  "Surdurulebilir Yasam Film Festivali"
+subtitle: "Festival"
+author: "Nuri"
+avatar: "img/authors/sloth.png"
+image: "img/syff.jpg"
+date:   2018-03-15 12:12:12
+---
+
+Her yil Kasim ayi icerisinde yapilmaktadir.
+Gosterimleri son iki yildir Antalya Kultur Sanat'ta yapiliyor.

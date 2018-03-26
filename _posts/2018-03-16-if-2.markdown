@@ -7,8 +7,7 @@ image: "img/if2ff.png"
 date:   2018-03-16 12:12:12
 ---
 
-### Mekan Bilgisi
-Lorem ipsum dolor sit amet....
+Olusumun kendi sesiyle: "her ay merak edilen güncel ve alternatif filmler 33 şehir, 50 noktada aynı anda izlenecek, konuşulacak, tartışılacak! … yılın 8 ayına yayılan bir seri olarak karşımızda. Her ay iki filmlik bir seçki tüm Yeni !f² salonlarında aynı anda gösterilecek."
 
-### Gosterim Bilgisi
-Lorem ipsum dolor sit amet....
+IF2 'nin Antalya gosterimleri N'Sin Kafe'de yapiliyor. Gosterime girecek filmlerin duyurularini; hem If2'nin hem de N'Sin Kafe'nin asagida ki iletisim adresleri ve sosyal medya hesaplarindan takip edebilirsiniz.
+ILETISIM: If2 - N'Sin.

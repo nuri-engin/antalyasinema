@@ -1,0 +1,12 @@
+---
+title:  "If 2"
+subtitle: "Festival"
+author: "Nuri"
+avatar: "img/authors/sloth.png"
+image: "img/filmmor.jpg"
+date:   2018-03-16 12:12:12
+---
+
+Tanitim metinlerinden: "Kadınların sinema ve medyaya katılımını, bu alanda kendilerini ifade edebilme, iletişim ve üretim alan, olanak ve güçlerini artırmayı ve kadınların cinsiyetçi olmayan temsil ve deneyimlerini yaygınlaştırmayı amaçlar. ... Şimdiye kadar yapımını tamamladığı on iki filmde olduğu gibi, kadınlarla kadınlar için kadınlık hallerine dair filmler yapar."
+
+Hemen hemen her yil Mart-Nisan aylarinda yapilan festival, bu yil 23 Mart'ta basladi. Festival filmlerinin bu yilki gosterimleri Antalya Kultur Sanat 'ta gerceklestiriliyor. Festivalin Antalya programi icin asagida ki baglantilari kullanabilirsiniz.
