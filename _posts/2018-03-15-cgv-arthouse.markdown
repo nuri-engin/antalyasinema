@@ -3,7 +3,7 @@ title:  "CGV Arthouse"
 subtitle: "Olusum > Cinemaximum salonlari"
 author: "Nuri"
 avatar: "img/authors/sloth.png"
-image: "img/cgv.png"
+image: "img/cgvart.png"
 date:   2018-03-15 12:12:12
 ---
 
