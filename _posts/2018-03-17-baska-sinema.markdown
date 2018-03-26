@@ -3,7 +3,7 @@ title:  "Baska Sinema"
 subtitle: "Olusum > Farkli Sinema Salonlari"
 author: "Nuri"
 avatar: "img/authors/sloth.png"
-image: "img/baskasinema.jpg"
+image: "img/baska.png"
 date:   2018-03-17 12:12:12
 ---
 
