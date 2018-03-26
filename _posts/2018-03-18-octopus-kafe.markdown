@@ -3,7 +3,7 @@ title:  "Octopus Kitap/Kafe"
 subtitle: "Mekan > Isiklar"
 author: "Nuri"
 avatar: "img/authors/sloth.png"
-image: "img/octupus.jpg"
+image: "img/octopus.jpg"
 date:   2018-03-18 12:12:12
 ---
 
