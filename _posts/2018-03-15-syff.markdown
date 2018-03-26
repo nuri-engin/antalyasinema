@@ -3,7 +3,7 @@ title:  "Surdurulebilir Yasam Film Festivali"
 subtitle: "Festival"
 author: "Nuri"
 avatar: "img/authors/sloth.png"
-image: "img/syff.jpg"
+image: "img/syff.png"
 date:   2018-03-15 12:12:12
 ---
 
