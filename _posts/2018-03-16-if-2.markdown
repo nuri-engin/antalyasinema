@@ -11,6 +11,7 @@ Olusumun kendi sesiyle: -"Her ay merak edilen güncel ve alternatif filmler 33 �
 
 !f² 'nin Antalya gosterimleri [N'Sin Kafe](https://nuri-engin.github.io/antalyasinema/#/2018/03/19/nsin)'de yapiliyor. Gosterime girecek filmlerin duyurularini; hem !f²'nin hem de N'Sin Kafe'nin asagida ki iletisim adresleri ve sosyal medya hesaplarindan takip edebilirsiniz.
 
+---
 - [!f² resmi sitesi](http://www.ifistanbul.com/if2/)
 - [N'Sin cafe @ facebook](https://www.facebook.com/nesincafe/) 
 - [N'Sin cafe @ twitter](https://twitter.com/kaleiciNsin)
