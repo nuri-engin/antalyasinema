@@ -4,8 +4,7 @@ subtitle: Mekan > Kaleici
 author: Nuri
 avatar: img/authors/sloth.png
 image: img/nsin.jpg
-date: {}
-published: true
+date:  2018-03-19 12:12:12
 ---
 
 Duvarlari Redd'in sarkilariyla bezeli yeni nesil mekanda, belirli araliklarla film gosterimleri yapiliyor. 
