@@ -16,7 +16,7 @@ Mekanda gerceklestirilecek gosterimlerle ilgili bilgi almak ve duyurulari takip 
 
 **Adres**: Muratpaşa Mahallesi, 141. Sk. 14A, 07600 Muratpaşa/Antalya
 
-Haritada goruntulemek icin soyle buyrun! @ https://goo.gl/maps/sYQHgjHfuxD2
+Haritada goruntulemek icin soyle buyrun! @ [https://goo.gl/maps/sYQHgjHfuxD2](https://goo.gl/maps/sYQHgjHfuxD2)
 
 Takip edebileceginiz kanallar
 - [Yalin Sanat @ facebook](https://www.facebook.com/AtolyeYalin/) 
