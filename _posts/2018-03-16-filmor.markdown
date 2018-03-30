@@ -7,6 +7,12 @@ image: "img/filmmor.jpg"
 date:   2018-03-16 12:12:12
 ---
 
-Tanitim metinlerinden: "Kadınların sinema ve medyaya katılımını, bu alanda kendilerini ifade edebilme, iletişim ve üretim alan, olanak ve güçlerini artırmayı ve kadınların cinsiyetçi olmayan temsil ve deneyimlerini yaygınlaştırmayı amaçlar. ... Şimdiye kadar yapımını tamamladığı on iki filmde olduğu gibi, kadınlarla kadınlar için kadınlık hallerine dair filmler yapar."
+Tanitim metinlerinden: _"Kadınların sinema ve medyaya katılımını, bu alanda kendilerini ifade edebilme, iletişim ve üretim alan, olanak ve güçlerini artırmayı ve kadınların cinsiyetçi olmayan temsil ve deneyimlerini yaygınlaştırmayı amaçlar. ... Şimdiye kadar yapımını tamamladığı on iki filmde olduğu gibi, kadınlarla kadınlar için kadınlık hallerine dair filmler yapar."_
 
-Hemen hemen her yil Mart-Nisan aylarinda yapilan festival, bu yil 23 Mart'ta basladi. Festival filmlerinin bu yilki gosterimleri Antalya Kultur Sanat 'ta gerceklestiriliyor. Festivalin Antalya programi icin asagida ki baglantilari kullanabilirsiniz.
+Hemen hemen her yil Mart-Nisan aylarinda yapilan festival, bu yil 23 Mart'ta yapildi. Festival filmlerinin bu yilki gosterimleri Antalya Kultur Sanat 'ta gerceklestiriliyor. 
+
+Festivalin program ve detayli etkinlik mekanlarini ogrenmek icin asagida ki baglantilari kullanabilirsiniz.
+
+---
+
+[Filmmor resmi sayfasi](http://filmmor.org/)
