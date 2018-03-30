@@ -19,4 +19,4 @@ Mekanda gerceklestirilecek gosterimlerle ilgili bilgi almak ve duyurulari takip 
 Haritada goruntulemek icin soyle buyrun! @ https://goo.gl/maps/sYQHgjHfuxD2
 
 Takip edebileceginiz kanallar
-- [Koyusiyah @ facebook](https://www.facebook.com/AtolyeYalin/) 
+- [Yalin Sanat @ facebook](https://www.facebook.com/AtolyeYalin/) 
