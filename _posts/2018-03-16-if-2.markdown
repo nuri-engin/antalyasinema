@@ -7,7 +7,7 @@ image: "img/if2.png"
 date:   2018-03-16 12:12:12
 ---
 
-Olusumun kendi sesiyle: -"Her ay merak edilen güncel ve alternatif filmler 33 şehir, 50 noktada aynı anda izlenecek, konuşulacak, tartışılacak! … yılın 8 ayına yayılan bir seri olarak karşımızda. Her ay iki filmlik bir seçki tüm Yeni !f² salonlarında aynı anda gösterilecek."_
+Olusumun kendi sesiyle: _"Her ay merak edilen güncel ve alternatif filmler 33 şehir, 50 noktada aynı anda izlenecek, konuşulacak, tartışılacak! … yılın 8 ayına yayılan bir seri olarak karşımızda. Her ay iki filmlik bir seçki tüm Yeni !f² salonlarında aynı anda gösterilecek."_
 
 !f² 'nin Antalya gosterimleri [N'Sin Kafe](https://nuri-engin.github.io/antalyasinema/#/2018/03/19/nsin)'de yapiliyor. Gosterime girecek filmlerin duyurularini; hem !f²'nin hem de N'Sin Kafe'nin asagida ki iletisim adresleri ve sosyal medya hesaplarindan takip edebilirsiniz.
 
