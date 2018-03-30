@@ -1,11 +1,29 @@
 ---
-title:  "N'Sin Kafe/Bar"
-subtitle: "Mekan > Kaleici"
-author: "Nuri"
-avatar: "img/authors/sloth.png"
-image: "img/nsin.jpg"
-date:   2018-03-19 12:12:12
+title: N'Sin Kafe/Bar
+subtitle: Mekan > Kaleici
+author: Nuri
+avatar: img/authors/sloth.png
+image: img/nsin.jpg
+date: {}
+published: true
 ---
 
-Duvarlari Redd'in sarkilariyla bezeli yeni nesil mekanda, belirli araliklari film gosterimleri yapiliyor. Ayrica son iki yildir if2 festivali gosterimleri de yine N'Sin kafede yapilmaktadir. Mekanda yapilacak gosterimler hakkinda bilgi almak icin kendi sosyal medya hesaplarini takip edebillir ve if2 bunyesinde yapilacak gosterimler icin ayrica if2 resmi sitesine bakabilirsiniz.
-HARITA - FB 
+Duvarlari Redd'in sarkilariyla bezeli yeni nesil mekanda, belirli araliklarla film gosterimleri yapiliyor. 
+
+Ayrica mekanda **!f² festivali** gosterimleri de yapilmaktadir. 
+
+Mekanda yapilacak gosterimler hakkinda bilgi almak icin kendilerinin sosyal medya hesaplarini takip edebillirsiniz. !f² bunyesinde yapilacak gosterimler icin hem festivalin resmi sitesine bakabilir hem de yine N'Sin kafenin sosyal medya duyurularinda film listesini bulabilirsiniz.
+
+
+
+
+----
+
+**Adres**: Kılınçarslan Mahallesi, Yeni Kapı Sk. No:12, 07100 Muratpaşa/Antalya
+
+Haritada goruntulemek icin soyle buyrun! @ https://goo.gl/maps/GK6S3EZVAE52
+
+Takip edebileceginiz kanallar
+- [N'Sin cafe @ facebook](https://www.facebook.com/nesincafe/) 
+- [N'Sin cafe @ twitter](https://twitter.com/kaleiciNsin)
+- [!f² resmi sitesi](http://www.ifistanbul.com/if2/)
