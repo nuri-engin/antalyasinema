@@ -4,8 +4,7 @@ subtitle: Mekan > Kaleici
 author: Nuri
 avatar: img/authors/sloth.png
 image: img/koyusiyah.jpg
-date: {}
-published: true
+date:   2018-03-19 12:12:12
 ---
 
 Koyusiyah kave cok uzun yillardir Kaleicinde bulunan ve varligiyla bircok insanin ortak mekani haline gelmis bir yerdir. 
