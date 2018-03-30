@@ -20,7 +20,7 @@ Gosterimi yapilacak filmler hakkinda bilgi almak icin Kahvenin Facebook ve Insta
 
 **Adres**: Selçuk Mh., 07100 Muratpaşa/Antalya
 
-Haritada goruntulemek icin soyle buyrun! @ https://goo.gl/maps/75TnzpZ9jR42
+Haritada goruntulemek icin soyle buyrun! @ [https://goo.gl/maps/75TnzpZ9jR42](https://goo.gl/maps/75TnzpZ9jR42)
 
 Takip edebileceginiz kanallar
 - [Koyusiyah @ facebook](https://www.facebook.com/koyusiyahcafe/) 
