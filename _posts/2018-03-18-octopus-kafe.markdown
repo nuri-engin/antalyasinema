@@ -15,7 +15,7 @@ Mekanda yapilacak film gosterimlerinin duyurularini almak icin kendilerinin sosy
 
 **Adres**: Haşimişcan Mahallesi, 1295. Sk. 41/A, 07100 Muratpaşa/Antalya
 
-Haritada goruntulemek icin soyle buyrun! @ https://goo.gl/maps/oV3y2kemHdr
+Haritada goruntulemek icin soyle buyrun! @ [https://goo.gl/maps/oV3y2kemHdr](https://goo.gl/maps/oV3y2kemHdr)
 
 Takip edebileceginiz kanallar
 - [Octopus Cafe @ facebook](https://www.facebook.com/octopusbookcafe/) 
