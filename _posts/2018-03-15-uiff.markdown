@@ -7,4 +7,13 @@ image: "img/uiff.jpg"
 date:   2018-03-15 12:12:12
 ---
 
-Festivalin gosterim tarihleri her yil degisiklik gostermektedir. Son olarak festivalin 12.si Ekim ayinda duzenlenmisti. Festivalin Antalya gosterimleri ise yine her yil birden fazla degisik mekanda yapilmaktadir. Festival bilgilerine kendi web sayfalarindan ulasabilirsiniz.
+Festivalin gosterim tarihleri her yil degisiklik gostermektedir. Son olarak festivalin 12.si Ekim ayinda duzenlenmisti. 
+
+Festivalin Antalya gosterimleri ise yine her yil birden fazla degisik mekanda yapilmaktadir. 
+
+Festival bilgilerine kendi web sayfalarindan ulasabilirsiniz.
+
+---
+- [Festival resmi sayfasi](http://www.iff.org.tr/)
+- [Isci Filmleri Festivali @ facebook](https://www.facebook.com/iscifilmlerifestivali)
+- [Isci Filmleri Festivali @ twitter](https://twitter.com/iscifilmfest)
