@@ -7,5 +7,16 @@ image: "img/yalinsanat.jpg"
 date:   2018-03-18 12:12:12
 ---
 
-Aslinda kendileri tam tesekkulu bir sanat atolyesi olmakla birlikte, sinefil bir ekibin varligiyla; haftanin Persembe gununu "Cinepersembe" gosterimlerine ayirmis bir mekandir. Mekanda gerceklestirilecek gosterimlerle ilgili bilgi almak ve duyurulari takip etmek icin kendilerinin facebook sayfasi takip edebilirsiniz. yapmaktalar.
-HARITA - FB
+Aslinda kendileri tam tesekkulu bir sanat atolyesi olmakla birlikte, sinefil bir ekibin varligiyla; her hafta **Persembe** gununu "_Cinepersembe_" gosterimlerine ayirmis bir mekandir. 
+
+Mekanda gerceklestirilecek gosterimlerle ilgili bilgi almak ve duyurulari takip etmek icin kendilerinin facebook sayfasi takip edebilirsiniz. yapmaktalar.
+
+
+----
+
+**Adres**: Muratpaşa Mahallesi, 141. Sk. 14A, 07600 Muratpaşa/Antalya
+
+Haritada goruntulemek icin soyle buyrun! @ https://goo.gl/maps/sYQHgjHfuxD2
+
+Takip edebileceginiz kanallar
+- [Koyusiyah @ facebook](https://www.facebook.com/AtolyeYalin/) 
